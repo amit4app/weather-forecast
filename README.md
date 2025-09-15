@@ -20,5 +20,3 @@ Supports **offline access**: last fetched forecast and local city suggestions ar
 - Architecture: MVVM + Use Cases (Clean-ish layering)
 - Min SDK 26, Compile/Target SDK 36
 
-## Project Structure
-
